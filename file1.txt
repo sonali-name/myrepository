@@ -14,7 +14,7 @@ changes - 4 .....solved by bug123
 
 
 changes5
-changes6
+changes  6.....//on remote
 
 
 
